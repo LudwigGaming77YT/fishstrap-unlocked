@@ -1,8 +1,8 @@
 > [!CAUTION]
 > This is a fork made with the sole purpose of re-enabling content that 
-> was previously blacklisted by the original client! I'd recommend
-> checking out the original github to know what the main differences are
-> between [Fishstrap][fishstrap] and [Bloxstrap][bloxstrap]!
+> was previously blacklisted by the original client. I'd recommend
+> checking out the original Github to know what the main differences
+> between [Fishstrap][fishstrap-github] and [Bloxstrap][bloxstrap] are!
 
 <div align="center">
 
@@ -20,7 +20,7 @@ Fishstrap: Unlocked is a fork of [Fishstrap][fishstrap] with the sole purpose of
 
 ## Added Features from Fishstrap (Not Much, I know.)
 
-- Re-enables Mesh Customization!
+- Re-enabled Mesh Customization! Have fun with making or using custom body types to your heart's content!
 - Added the Old Fishstrap and Old Bloxstrap Icons as an option, while also having the option to choose the newer ones as well!
 
 <div align="center">
@@ -38,6 +38,7 @@ Fishstrap: Unlocked is a fork of [Fishstrap][fishstrap] with the sole purpose of
 [repo-showcase]:  https://github.com/LudwigGaming77YT/fishstrap-unlocked/blob/main/Images/Showcase-Old.png
 
 [fishstrap]: https://www.fishstrap.app
+[fishstrap-github]: https://github.com/fishstrap/fishstrap
 [bloxstrap]: https://bloxstraplabs.com
 [appleblox]: https://github.com/AppleBlox/appleblox
 [sober]:     https://sober.vinegarhq.org
