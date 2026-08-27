@@ -10,7 +10,7 @@
         IconFishstrapClassic,
         [EnumName(FromTranslation = "Bloxstrap (Modern)")]
         IconBloxstrapModern,
-        [EnumName(FromTranslation = "Fishstrap (Classic)")]
+        [EnumName(FromTranslation = "Bloxstrap (Classic)")]
         IconBloxstrapClassic,
         [EnumName(StaticName = "2008")]
         Icon2008,
