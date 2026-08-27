@@ -12,6 +12,7 @@
 </div>
 
 Fishstrap: Unlocked is a fork of [Fishstrap][fishstrap] with the sole purpose of whitelisting content that is blacklisted in the original bootstrapper, while also sprinkling in a bit of extra customization
+
 This will also be updated as the original repository gets updated, so don't worry about this being TOO outdated!
 
 > [!NOTE]
