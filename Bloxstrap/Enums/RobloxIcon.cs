@@ -4,6 +4,14 @@
     {
         [EnumName(FromTranslation = "Common.Default")]
         IconDefault,
+        [EnumName(FromTranslation = "Fishstrap (Modern)")]
+        IconFishstrapModern,
+        [EnumName(FromTranslation = "Fishstrap (Classic)")]
+        IconFishstrapClassic,
+        [EnumName(FromTranslation = "Bloxstrap (Modern)")]
+        IconBloxstrapModern,
+        [EnumName(FromTranslation = "Fishstrap (Classic)")]
+        IconBloxstrapClassic,
         [EnumName(StaticName = "2008")]
         Icon2008,
         [EnumName(StaticName = "2011")]
