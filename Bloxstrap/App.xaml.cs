@@ -14,9 +14,9 @@ namespace Bloxstrap
     public partial class App : Application
     {
 #if QA_BUILD
-        public const string ProjectName = "Fishstrap-Unlocked-QA";
+        public const string ProjectName = "Fishstrap: Unlocked-QA";
 #else
-        public const string ProjectName = "Fishstrap-Unlocked";
+        public const string ProjectName = "Fishstrap: Unlocked";
 #endif
         public const string ProjectOwner = "LudwigGaming77YT";
         public const string ProjectRepository = "ludwiggaming77yt/fishstrap-unlocked";
